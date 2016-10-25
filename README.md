@@ -70,7 +70,7 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 ![New Function App](img/functionApp.png)
 
 ## 4. Azure is now deploying the Function App
-    * Once done, create a new function with an HTTP Trigger and C#, like below:
+    * Once done, create a new function with an **HTTP Trigger and C#**, like below:
 
 ![Faster Way](img/fasterWay.png)
 
@@ -230,6 +230,12 @@ public class VisionObject
 ![New Web App](img/appSettings.jpg)
 
 #### Congratulations you have successfully created the Funtions App and Windows 10 IoT Application
+
+## Download Postman from Chrome - https://www.getpostman.com/
+* Copy the URL from the functions app on the top.
+* Open postman to make a Post request
+* With this URL and in the Body attach an image that you can download from the internet
+
 
 ## Downloading Source Code from GitHub
 To quickly download a project from Github, simply:
