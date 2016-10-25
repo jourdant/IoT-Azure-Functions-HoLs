@@ -19,7 +19,7 @@
             <StackPanel Margin="0,0,0,10" Grid.Row="0" Orientation="Horizontal">
                 <Button Name="CameraStreamingButton" Content="&#xE768;" FontFamily="Segoe MDL2 Assets" Click="CameraStreamingButton_Click" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="50" Width="50" />
                 <StackPanel Margin="20,0,0,0" Grid.Row="0" Orientation="Vertical">
-                    <TextBlock Text="Home Security System demo with Windows 10 IoT Core and Azure" />
+                    <TextBlock Text="CCTV demo with Windows 10 IoT Core and Azure" />
                     <TextBlock Text="Microsoft Ignite New Zealand 2016" TextWrapping="Wrap"/>
                 </StackPanel>
             </StackPanel>
