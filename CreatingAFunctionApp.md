@@ -8,7 +8,6 @@
 
 ## 2. Creating an Azure Funtion 
   * Click on "New" in the top left corner of the portals home page
-  * Click on "New" under the Market Place heading
   * Select "Virtual Machines"
   * Select "Function App"
 
