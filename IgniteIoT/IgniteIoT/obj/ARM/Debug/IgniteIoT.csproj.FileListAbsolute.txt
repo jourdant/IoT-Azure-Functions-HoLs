@@ -1,0 +1,576 @@
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\App.xbf
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\MainPage.xbf
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.xr.xml
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.exe
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.pdb
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\resources.pri
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\Core\IgniteIoT.exe
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.build.appxrecipe
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Core.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Windows.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.AppContext.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\ClrCompression.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.csprojResolveAssemblyReference.cache
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.g.i.cs
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.g.cs
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.xaml
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.xaml
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.xbf
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.xbf
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.exe
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.pdb
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\priconfig.xml
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\layout.resfiles
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\resources.resfiles
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\pri.resfiles
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\qualifiers.txt
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Kartik\Documents\Visual Studio 2015\Projects\IgniteIoT\IgniteIoT\obj\ARM\Debug\ProjectArchitectures.txt
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\App.xbf
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\MainPage.xbf
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.xr.xml
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.exe
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.pdb
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\resources.pri
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\AppxManifest.xml
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\Core\AppxManifest.xml
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\Core\IgniteIoT.exe
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.build.appxrecipe
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.CSharp.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Core.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Web.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Windows.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.Linq.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.Serialization.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.VisualBasic.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.AppContext.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Concurrent.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Immutable.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.NonGeneric.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Specialized.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Data.Common.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Debug.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Tools.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Dynamic.Runtime.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.Calendars.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.Extensions.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.Compression.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\ClrCompression.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.FileSystem.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Expressions.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Parallel.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Queryable.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Http.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Http.Rtc.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.NetworkInformation.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Primitives.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Requests.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Sockets.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.Vectors.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ObjectModel.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.Networking.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.ServiceModel.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.Uri.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Context.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Extensions.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Metadata.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Primitives.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Resources.ResourceManager.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Extensions.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Handles.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.InteropServices.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Numerics.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Security.Claims.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Security.Principal.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Http.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Security.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.RegularExpressions.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Overlapped.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Timer.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XDocument.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XmlDocument.dll
+D:\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.csprojResolveAssemblyReference.cache
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.g.i.cs
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.g.cs
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.g.i.cs
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.g.cs
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.xaml
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.xaml
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.xbf
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.xbf
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.exe
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.pdb
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\ResourceHandlingTask.state
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\priconfig.xml
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\priconfig.xml.intermediate
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\layout.resfiles
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\layout.resfiles.intermediate
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\resources.resfiles
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\resources.resfiles.intermediate
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\pri.resfiles
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\pri.resfiles.intermediate
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\qualifiers.txt
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\IgniteIoT\IgniteIoT\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\App.xbf
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\MainPage.xbf
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.xr.xml
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.exe
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.pdb
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\resources.pri
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\AppxManifest.xml
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\Core\IgniteIoT.exe
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\IgniteIoT.build.appxrecipe
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.CSharp.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Core.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Web.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Windows.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.Linq.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.Serialization.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.VisualBasic.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.AppContext.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Concurrent.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Immutable.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.NonGeneric.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Collections.Specialized.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Data.Common.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Debug.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Tools.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Dynamic.Runtime.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.Calendars.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Globalization.Extensions.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.Compression.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\ClrCompression.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.FileSystem.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Expressions.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Parallel.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Linq.Queryable.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Http.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Http.Rtc.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.NetworkInformation.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Primitives.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Requests.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.Sockets.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.Vectors.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ObjectModel.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.Networking.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.ServiceModel.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Private.Uri.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Context.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Extensions.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Metadata.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.Primitives.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Resources.ResourceManager.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Extensions.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Handles.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.InteropServices.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Numerics.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Security.Claims.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Security.Principal.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Http.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.ServiceModel.Security.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Text.RegularExpressions.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Overlapped.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Threading.Timer.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XDocument.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XmlDocument.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.csprojResolveAssemblyReference.cache
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.g.i.cs
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.g.cs
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.g.cs
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.xaml
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.xaml
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\App.xbf
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\MainPage.xbf
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.exe
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\IgniteIoT.pdb
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\priconfig.xml
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\layout.resfiles
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\resources.resfiles
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\pri.resfiles
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\qualifiers.txt
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\obj\ARM\Debug\ProjectArchitectures.txt

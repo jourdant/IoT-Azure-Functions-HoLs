@@ -1,0 +1,1 @@
+C:\Users\msign\Documents\IgniteIoT\IgniteIoT\IgniteIoT.csproj;x64

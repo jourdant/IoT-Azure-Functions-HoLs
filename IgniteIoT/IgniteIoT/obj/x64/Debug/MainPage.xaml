@@ -1,0 +1,48 @@
+﻿<Page
+    x:Class="IgniteIoT.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:IgniteIoT"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="12,20,12,12">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+
+            <StackPanel Margin="0,0,0,10" Grid.Row="0" Orientation="Horizontal">
+                <Button x:ConnectionId='9' Name="CameraStreamingButton" Content="&#xE768;" FontFamily="Segoe MDL2 Assets"                                     HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="50" Width="50" />
+                <StackPanel Margin="20,0,0,0" Grid.Row="0" Orientation="Vertical">
+                    <TextBlock Text="Home Security System demo with Windows 10 IoT Core and Azure" />
+                    <TextBlock Text="Microsoft Ignite New Zealand 2016" TextWrapping="Wrap"/>
+                </StackPanel>
+            </StackPanel>
+
+          
+            <CaptureElement x:ConnectionId='1' Name="CamPreview" Grid.Row="1"  HorizontalAlignment="Left" Height="480" Width="640" VerticalAlignment="Top" />
+            <Canvas x:ConnectionId='2' Name="VisualizationCanvas" Grid.Row="1" Height="480" Width="640" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <Image x:ConnectionId='3' x:Name="imagePreview" Grid.Row="1" HorizontalAlignment="Right" Height="300" VerticalAlignment="Top" Width="300"/>
+            <TextBlock x:ConnectionId='4' x:Name="textBlock" Width="526" Grid.Row="1" HorizontalAlignment="Right" Height="Auto" TextWrapping="Wrap" FontSize="36" TextAlignment="Center" VerticalAlignment="Bottom"/>
+
+            <StackPanel x:ConnectionId='5' x:Name="StatusPanel" Orientation="Vertical" Grid.Row="2">
+                <TextBlock x:ConnectionId='6' x:Name="StatusLabel" Margin="10,0,0,10" TextWrapping="Wrap" />
+                <Border x:ConnectionId='7' x:Name="StatusBorder" Margin="0,0,0,0">
+                    <ScrollViewer VerticalScrollMode="Auto"  VerticalScrollBarVisibility="Auto" MaxHeight="200">
+                        <TextBlock x:ConnectionId='8' x:Name="StatusBlock" Width="Auto" FontWeight="Bold" Margin="10,10,10,20" TextWrapping="Wrap"/>
+                    </ScrollViewer>
+                </Border>
+            </StackPanel>
+
+
+        </Grid>
+        
+
+    </Grid>
+</Page>
+
