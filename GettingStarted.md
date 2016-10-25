@@ -45,7 +45,7 @@
 
 ![Local Machine](img/propertiesRemote.png)
 
-## 2. Click Debug in the side menu and change the settings such that they match the picture below
+## 2. Click Debug in the side menu and change the settings such that they match the picture below (IP Address will be on your Monitor)
 
 ![Local Machine](img/debugSetup.png)
 

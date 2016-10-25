@@ -14,14 +14,14 @@ The Internet of Things extends internet connectivity beyond traditional devices 
 
  1. You will build a Windows 10 Application and deploy it to a Raspberry Pi 3, this application will automatically capture a picture of faces
  2. This image will be sent to your Azure Function 
- 3. The Azure Function App will use Microsoft Cognitive Services **Vision API** which will analyse the picture and return a response 
+ 3. The Azure Function App will use Microsoft Cognitive Services **Vision API** which will take in a picture as the input and return the uploaded picture with a rectangle around the face detected 
  4. This response will be an image that would have detected one or more human faces in your image with face rectangles for where in the image the faces are, along with face attributes which contain machine learning-based predictions of facial features. After detecting faces, you can take the face rectangle and pass it to the Emotion API to speed up processing. The face attribute features available are: Age, Gender, Pose, Smile, and Facial Hair along with 27 landmarks for each face in the image. 
  
 ### Extra for experts 
  * We will be using the Vision API to detect faces, but the face API can also be used to expand this application to easily find similar-looking faces.
    * Given a collection of faces and a new face as a query, this API will return a collection of similar faces.
 
-### What is Microsoft Cognitive Services?
+### What are Microsoft Cognitive Services?
 
 Microsoft Cognitive Services let you build apps with powerful algorithms using just a few lines of code. They work across devices and platforms such as iOS, Android, and Windows, keep improving, and are easy to set up. 
 
