@@ -46,7 +46,7 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 * Keyboard
 * Mouse
 
-## Download Postman from Chrome - https://www.getpostman.com/
+## Download Postman to test your Azure Function - https://www.getpostman.com/apps
 * Copy the URL from the functions app on the top.
 * Open postman to make a Post request
 * With this URL and in the Body attach an image that you can download from the internet

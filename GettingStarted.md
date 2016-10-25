@@ -43,7 +43,7 @@
 
 ## 1. To deploy to a remote machine what we will do is right click your app in the solution explorer and click properties as seen below
 
-![Local Machine](img/remoteProperties.png)
+![Local Machine](img/propertiesRemote.png)
 
 ## 2. Click Debug in the side menu and change the settings such that they match the picture below
 
