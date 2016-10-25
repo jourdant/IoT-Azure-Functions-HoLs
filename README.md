@@ -75,7 +75,7 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 ![Faster Way](img/fasterWay.png)
 
 
-## 5. Paste this code:
+## 5. Replace and Paste this code:
 
 ```csharp
 #r "Microsoft.WindowsAzure.Storage"
