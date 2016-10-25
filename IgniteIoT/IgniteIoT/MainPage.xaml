@@ -19,16 +19,25 @@
             <StackPanel Margin="0,0,0,10" Grid.Row="0" Orientation="Horizontal">
                 <Button Name="CameraStreamingButton" Content="&#xE768;" FontFamily="Segoe MDL2 Assets" Click="CameraStreamingButton_Click" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="50" Width="50" />
                 <StackPanel Margin="20,0,0,0" Grid.Row="0" Orientation="Vertical">
-                    <TextBlock Text="CCTV demo with Windows 10 IoT Core and Azure" />
+                    <TextBlock Text="Home Security System demo with Windows 10 IoT Core and Azure" />
                     <TextBlock Text="Microsoft Ignite New Zealand 2016" TextWrapping="Wrap"/>
                 </StackPanel>
             </StackPanel>
 
-          
-            <CaptureElement Name="CamPreview" Grid.Row="1"  HorizontalAlignment="Left" Height="480" Width="640" VerticalAlignment="Top" />
-            <Canvas Name="VisualizationCanvas" Grid.Row="1" Height="480" Width="640" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-            <Image x:Name="imagePreview" Grid.Row="1" HorizontalAlignment="Right" Height="300" VerticalAlignment="Top" Width="300"/>
-            <TextBlock x:Name="textBlock" Width="526" Grid.Row="1" HorizontalAlignment="Right" Height="Auto" TextWrapping="Wrap" FontSize="36" TextAlignment="Center" VerticalAlignment="Bottom"/>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <CaptureElement Name="CamPreview" Grid.Column="0"  HorizontalAlignment="Center" Height="480" Width="640" VerticalAlignment="Center" />
+                <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBlock x:Name="status" Text="Waiting for a face..." Width="526" Grid.Row="1" Height="Auto" TextWrapping="Wrap" FontSize="20" TextAlignment="Center"/>
+                    <Image x:Name="imagePreview" Grid.Row="1" Height="300" Width="300"/>
+                    <TextBlock x:Name="textBlock" Width="526" Grid.Row="1" Height="Auto" TextWrapping="Wrap" FontSize="36" TextAlignment="Center"/>
+                </StackPanel>
+            </Grid>
 
             <StackPanel x:Name="StatusPanel" Orientation="Vertical" Grid.Row="2">
                 <TextBlock x:Name="StatusLabel" Margin="10,0,0,10" TextWrapping="Wrap" />
