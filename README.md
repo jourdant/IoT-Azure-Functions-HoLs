@@ -49,7 +49,7 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 # Getting started
 
 ## 1. Lets Begin
-  * Go to [portal.azure.com](portal.azure.com)
+  * Go to [portal.azure.com](https://portal.azure.com)
   * Log in with the azure credentials 
 
 ## 2. Creating an Azure Funtion 
