@@ -2,8 +2,6 @@
 
 ## Introduction
 
-### Welcome to the Hands on Lab at Microsoft Ignite 2016.
-
 #### What is IoT? 
 
 The Internet of Things (IoT) refers to the ever-growing network of physical objects that feature an IP address for internet connectivity, and the communication that occurs between these objects and other Internet-enabled devices and systems.
@@ -17,10 +15,7 @@ The Internet of Things extends internet connectivity beyond traditional devices 
  3. The Azure Function App will use Microsoft Cognitive Services **Vision API** which will take in a picture as the input and return the uploaded picture with a rectangle around the face detected 
  4. This response will be an image that would have detected one or more human faces in your image with face rectangles for where in the image the faces are, along with face attributes which contain machine learning-based predictions of facial features. After detecting faces, you can take the face rectangle and pass it to the Emotion API to speed up processing. The face attribute features available are: Age, Gender, Pose, Smile, and Facial Hair along with 27 landmarks for each face in the image. 
  
-### Extra for experts 
- * We will be using the Vision API to detect faces, but the face API can also be used to expand this application to easily find similar-looking faces.
-   * Given a collection of faces and a new face as a query, this API will return a collection of similar faces.
-
+ 
 ### What are Microsoft Cognitive Services?
 
 Microsoft Cognitive Services let you build apps with powerful algorithms using just a few lines of code. They work across devices and platforms such as iOS, Android, and Windows, keep improving, and are easy to set up. 
@@ -32,7 +27,7 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 * Learn about Microsoft Cognitive services
 
 ### Tools
-* [Visual Studio Code](https://code.visualstudio.com)
+* [Visual Studio Community](https://www.visualstudio.com/vs/community/)
 * [Azure Portal](portal.azure.com) 
 
 ### Extra Resources
@@ -43,17 +38,15 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 ### You have been given a:
 * Raspberry Pi 3 with Windows 10 IoT core pre-installed
 * Microsoft LifeCam HD-3000 Webcam
-* Keyboard
-* Mouse
 
 ## Download Postman to test your Azure Function - https://www.getpostman.com/apps
-* Copy the URL from the functions app on the top.
+* Copy the URL from the functions app on the top
 * Open postman to make a Post request
 * With this URL and in the Body attach an image that you can download from the internet
 
 ## Downloading Source Code from GitHub
 To quickly download a project from Github, simply:
-  * Navigate to the [repo link](https://github.com/MS-Ignite-NZ-2016/IoT-Azure-Functions-HoLs)
+  * Navigate to the [repo link](https://github.com/jourdant/IoT-Azure-Functions-HoLs)
   * Click on **Download ZIP** on the mid-right section
-     * Get the project [ZIP File](https://github.com/MS-Ignite-NZ-2016/IoT-Azure-Functions-HoLs/archive/master.zip) directly 
+     * Get the project [ZIP File](https://github.com/jourdant/IoT-Azure-Functions-HoLs/archive/master.zip) directly 
   * Save and extract the archive in a suitable location
