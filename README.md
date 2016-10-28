@@ -39,6 +39,15 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 * Raspberry Pi 3 with Windows 10 IoT core pre-installed
 * Microsoft LifeCam HD-3000 Webcam
 
+
+### Steps
+There are four main exercises that we will be running through today:
+1. [Getting Started](/1.%20Getting%20Started.md)
+2. [Creating a Function App](/2.%20Creating%20a%20Function%20App.md)
+3. Testing with Postman (Instructions to follow below)
+4. Compiling and running the final demo (Download ZIP file below, open and run on your Raspberry PI)
+
+
 ## Download Postman to test your Azure Function - https://www.getpostman.com/apps
 * Copy the URL from the functions app on the top
 * Open postman to make a Post request
