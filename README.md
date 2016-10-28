@@ -42,6 +42,7 @@ Microsoft Cognitive Services let you build apps with powerful algorithms using j
 
 ### Steps
 There are four main exercises that we will be running through today:
+
 1. [Getting Started](/1.%20Getting%20Started.md)
 2. [Creating a Function App](/2.%20Creating%20a%20Function%20App.md)
 3. Testing with Postman (Instructions to follow below)
